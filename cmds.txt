@@ -1,0 +1,18 @@
+cls!
+1
+echo hello all!
+2
+dir!
+1
+echo this is developed in vcpp!
+2
+echo now from here we connect to linux box using telnet!
+2
+echo thank you!
+2
+date!
+1
+!!
+1
+echo thank you!
+2
